@@ -5,7 +5,7 @@ const cors = require('cors')
 const jokes = require('one-liner-joke');
 const serveStatic = require('serve-static');
 
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ origin: '*' }));
 
 app.use(serveStatic('bgimages'));
 

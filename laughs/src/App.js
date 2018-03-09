@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import tags from './tags';
 
-const backEnd = 'http://localhost:5000';
+const backEnd = 'http://jodysmith:5000';
 
 
 class App extends Component {
