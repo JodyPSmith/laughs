@@ -29,6 +29,7 @@ app.get('/getTagJoke', (req, res) => {
     let noQuotes = jokes.getRandomJokeWithTag(req.query.tag)
     // remove the ""  and & problem text
     noQuotes.body = noQuotes.body.replace(/&quot;/g, '"').replace(/&amp;/g, '&')
+    //minimize the crap jokes
     if (noQuotes.tags.includes("black" || "racist")) {
         noQuotes.body = "No Joke for You!"
         res.send(noQuotes);
