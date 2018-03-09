@@ -5,7 +5,7 @@ const cors = require('cors')
 const jokes = require('one-liner-joke');
 const serveStatic = require('serve-static');
 
-app.use(cors({ origin: '*' }));
+app.use(cors({ origin: 'http://jodysmith.ca:5000' }));
 
 app.use(serveStatic('bgimages'));
 
