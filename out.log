@@ -1,0 +1,71 @@
+listening on http://localhost:5000
+served tag joke  sarcastic { body: 'White smoke from under my hood means either my starter went out or my car has elected a new Pope.',
+  tags: [ 'attitude', 'sarcastic' ] }
+served tag joke  mistake { body: 'Dear Lord, there is a bug in your software...it\'s called #Monday, please fix it...',
+  tags: [ 'God', 'mistake' ] }
+served tag joke  work { body: 'If something goes wrong at the office, blame the guy who can\'t speak English...',
+  tags: [ 'work' ] }
+served tag joke  mistake { body: 'Turning vegan is a big missed steak.',
+  tags: [ 'attitude', 'food', 'mistake' ] }
+served tag joke  work { body: 'How do construction workers party? they raise the roof.',
+  tags: [ 'motivational', 'success', 'work' ] }
+served tag joke  work { body: 'You have to be flexible to work here. On many occasions, you\'ll be asked to bend over and grab your ankles.',
+  tags: [ 'attitude', 'stupid', 'work' ] }
+served tag joke  work { body: 'My resumé is just a list of things I hope you never ask me to do.',
+  tags: [ 'life', 'work' ] }
+served tag joke  mistake { body: 'Some of us learn from the mistakes of others; the rest of us have to be the others.',
+  tags: [ 'attitude', 'life', 'mistake' ] }
+served tag joke  fighting { body: 'Never get into fights with ugly people, they have nothing to lose.',
+  tags: [ 'fighting', 'people', 'ugly' ] }
+served tag joke  communication { body: 'Whiteboards are remarkable.',
+  tags: [ 'communication' ] }
+served tag joke  animal { body: 'I sometimes watch birds and wonder "If I could fly who would I shit on?"',
+  tags: [ 'animal', 'attitude', 'life' ] }
+served tag joke  women { body: 'Is google a woman? Because it won\'t let you finish your sentence without coming up with other suggestions.',
+  tags: [ 'life', 'women' ] }
+served tag joke  money { body: 'My first child has gone off to college and I feel a great emptiness in my life. Specifically, in my checking account.',
+  tags: [ 'attitude', 'kids', 'money', 'sarcastic' ] }
+served tag joke  communication { body: 'I was at an ATM and this old lady asked me to help check her balance, so I pushed her over.',
+  tags: [ 'communication', 'money', 'retirement' ] }
+served tag joke  men { body: 'Why are men like cars? Because they always pull out before they check to see if anyone else is cumming.',
+  tags: [ 'car', 'men', 'sex' ] }
+served tag joke  money { body: 'You take away the looks, money, intelligence, charm and success and, really, there\'s no real difference between me and George Clooney.',
+  tags: [ 'beauty', 'intelligence', 'life', 'money', 'sarcastic' ] }
+served tag joke  IT { body: 'I think my neighbor is stalking me as she\'s been googling my name on her computer. I saw it through my telescope last night.',
+  tags: [ 'IT', 'sarcastic', 'stupid' ] }
+served tag joke  IT { body: 'Failure is not an option—it comes bundled with the software.',
+  tags: [ 'IT' ] }
+served tag joke  IT { body: 'A clean house is the sign of a broken computer.',
+  tags: [ 'IT', 'life', 'sarcastic' ] }
+served tag joke  IT { body: 'Keep honking. I\'m reloading.',
+  tags: [ 'IT', 'stupid' ] }
+served tag joke  IT { body: 'I buy a lot of ringtones for someone who hasn\'t answered a phone call since 2008.',
+  tags: [ 'IT', 'life', 'rude' ] }
+served tag joke  beauty { body: 'Girl you\'re like a car accident, cause I just can\'t look away.',
+  tags: [ 'attitude', 'beauty', 'sarcastic' ] }
+served tag joke  life { body: 'What do Eskimos get from sitting on the ice too long? Polaroids.',
+  tags: [ 'life' ] }
+served tag joke  beauty { body: 'Girl you\'re like a car accident, cause I just can\'t look away.',
+  tags: [ 'attitude', 'beauty', 'sarcastic' ] }
+served tag joke  men { body: 'A wife can enjoy anything, until it\'s not my salary.',
+  tags: [ 'marriage', 'men', 'money' ] }
+served tag joke  life { body: 'I saw a guy on his motorcycle and the back of his shirt said "If you can read this the b*tch fell off."',
+  tags: [ 'attitude', 'life', 'motorcycle' ] }
+served tag joke  attitude { body: 'When I die, I hope I have enough time to point at a complete stranger and whisper "You did this."',
+  tags: [ 'attitude', 'dirty', 'life', 'time' ] }
+served tag joke  sport { body: 'Do people who go to the gym to "feel the burn" know nothing of Mexican food?',
+  tags: [ 'food', 'sport' ] }
+listening on http://localhost:5000
+served tag joke  sport { body: 'How many golfers does it take to change a light bulb? FORE!',
+  tags: [ 'sport' ] }
+served tag joke  stupid { body: 'We have enough gun control. What we need is idiot control.',
+  tags: [ 'stupid' ] }
+served tag joke  hate { body: 'I\'d like to see things from your point of view but I can\'t seem to get my head that far up my ass.',
+  tags: [ 'attitude', 'hate', 'insults', 'rude' ] }
+served tag joke  marriage { body: 'I love waking up to the sound of birds arguing with their spouses.',
+  tags: [ 'animal', 'marriage' ] }
+served tag joke  dirty { body: 'Men are like bank accounts. Without a lot of money, they don\'t generate much interest.',
+  tags: [ 'dirty', 'men', 'money' ] }
+served tag joke  political { body: 'My love is like communism; everyone gets a share, and it\'s only good in theory.',
+  tags: [ 'love', 'political' ] }
+listening on http://localhost:5000

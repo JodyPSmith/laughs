@@ -5,7 +5,7 @@ const cors = require('cors')
 const jokes = require('one-liner-joke');
 const serveStatic = require('serve-static');
 
-app.use(cors({ origin: 'http://jodysmith.ca:5000' }));
+app.use(cors({ origin: '*' }));
 
 app.use(serveStatic('bgimages'));
 
@@ -43,6 +43,5 @@ app.get('/AllTagJokes', (req, res) => {
     res.send(jokes.getAllJokesWithTag(req.query.tag))
 })
 
-app.listen(5000, () => {
-    console.log("listening on http://localhost:5000")
-})
+app.listen(5000, 'localhost')
+console.log("listening on http://localhost:5000")
